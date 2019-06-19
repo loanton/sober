@@ -12,6 +12,12 @@ li {
   padding-right: 18px;
 }
 
+.solution {
+  margin-left: 180px;
+  font-size: 24px;
+  color: orange;
+}
+
 h1 {
   font-size: 88px;
   color: white;
