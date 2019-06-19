@@ -1,0 +1,39 @@
+body {
+  display: block;
+}
+
+ul li {
+  display: inline;
+  color: grey;
+}
+
+li {
+  color: white;
+  padding-right: 18px;
+}
+
+h1 {
+  font-size: 88px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+.body {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  display: block;
+  width: 36em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  color: blue;
+}
